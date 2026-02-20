@@ -1,0 +1,19 @@
+type file
+id WebSharper.TopoJson
+authors IntelliFactory
+owners IntelliFactory
+projectUrl https://websharper.com/
+repositoryType git
+repositoryUrl https://github.com/dotnet-websharper/TopoJson
+licenseUrl http://github.com/dotnet-websharper/TopoJson/blob/master/LICENSE.md
+iconUrl https://github.com/dotnet-websharper/core/raw/websharper50/tools/WebSharper.png
+description
+    WebSharper Extensions for TopoJson 3.1.0
+tags
+    Web JavaScript F# C#
+files
+    ../WebSharper.TopoJSON/bin/Release/netstandard2.0/WebSharper.TopoJson.dll ==> lib/netstandard2.0
+    ../WebSharper.TopoJSON/bin/Release/netstandard2.0/WebSharper.TopoJson.xml ==> lib/netstandard2.0
+dependencies
+    framework: netstandard2.0
+            WebSharper ~> LOCKEDVERSION:[3]
