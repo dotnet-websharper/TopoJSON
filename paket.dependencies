@@ -8,8 +8,8 @@ framework: netstandard2.0
 storage: none
 strategy: min
 
-nuget WebSharper prerelease
-nuget WebSharper.FSharp prerelease
+nuget WebSharper ~> 10.0
+nuget WebSharper.FSharp ~> 10.0
 
 group wsbuild
     git https://github.com/dotnet-websharper/build-script websharper50
