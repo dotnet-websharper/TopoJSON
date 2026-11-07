@@ -13,6 +13,7 @@ tags
     Web JavaScript F# C#
 files
     ../WebSharper.TopoJSON/bin/Release/netstandard2.0/WebSharper.TopoJson.dll ==> lib/netstandard2.0
+    ../WebSharper.TopoJSON/bin/Release/netstandard2.0/WebSharper.TopoJson.websharper ==> lib/netstandard2.0
     ../WebSharper.TopoJSON/bin/Release/netstandard2.0/WebSharper.TopoJson.xml ==> lib/netstandard2.0
 dependencies
     framework: netstandard2.0
